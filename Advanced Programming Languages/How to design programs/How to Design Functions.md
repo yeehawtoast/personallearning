@@ -1,0 +1,1 @@
+Makes hard functions easy and easy functions harder.
